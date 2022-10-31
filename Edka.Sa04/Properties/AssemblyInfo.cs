@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("Edka.Sa01")]
+[assembly: AssemblyTitle("Edka.Sa04")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Edka.Sa01")]
+[assembly: AssemblyProduct("Edka.Sa04")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("1edfacd4-a029-4817-a3dd-4313a7617a30")]
+[assembly: Guid("8347ea15-d66f-4807-8109-2d719d16cd68")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

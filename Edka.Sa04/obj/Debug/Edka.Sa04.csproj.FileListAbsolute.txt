@@ -1,0 +1,6 @@
+C:\Users\jezie\source\repos\Edka\Edka.Sa04\obj\Debug\Edka.Sa04.csproj.CoreCompileInputs.cache
+C:\Users\jezie\source\repos\Edka\Edka.Sa04\bin\Debug\Edka.Sa04.exe.config
+C:\Users\jezie\source\repos\Edka\Edka.Sa04\bin\Debug\Edka.Sa04.exe
+C:\Users\jezie\source\repos\Edka\Edka.Sa04\bin\Debug\Edka.Sa04.pdb
+C:\Users\jezie\source\repos\Edka\Edka.Sa04\obj\Debug\Edka.Sa04.exe
+C:\Users\jezie\source\repos\Edka\Edka.Sa04\obj\Debug\Edka.Sa04.pdb

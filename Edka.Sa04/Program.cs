@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Edka.Sa01
+namespace Edka.Sa04
 {
     class Program
     {
@@ -16,18 +16,16 @@ namespace Edka.Sa01
         };
         static void Main(string[] args)
         {
-            var despesasAbaixoCem = from d in despesas 
-                                    where d.Valor < 100 
+            var despesasAbaixoCem = from d in despesas
+                                    where d.Valor < 100
                                     orderby d.Vencimento
                                     select d;
 
-            foreach(var item in despesasAbaixoCem)
+            foreach (var item in despesasAbaixoCem)
             {
                 Console.WriteLine(item);
             }
             Console.ReadKey();
         }
-
-        
     }
 }

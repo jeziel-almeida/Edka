@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1EDFACD4-A029-4817-A3DD-4313A7617A30}</ProjectGuid>
+    <ProjectGuid>{8347EA15-D66F-4807-8109-2D719D16CD68}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Edka.Sa01</RootNamespace>
-    <AssemblyName>Edka.Sa01</AssemblyName>
+    <RootNamespace>Edka.Sa04</RootNamespace>
+    <AssemblyName>Edka.Sa04</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

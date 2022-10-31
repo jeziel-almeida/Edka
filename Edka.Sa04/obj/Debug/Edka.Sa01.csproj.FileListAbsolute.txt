@@ -1,7 +1,0 @@
-C:\Users\jezie\source\repos\Edka\Edka.Sa01\bin\Debug\Edka.Sa01.exe.config
-C:\Users\jezie\source\repos\Edka\Edka.Sa01\bin\Debug\Edka.Sa01.exe
-C:\Users\jezie\source\repos\Edka\Edka.Sa01\bin\Debug\Edka.Sa01.pdb
-C:\Users\jezie\source\repos\Edka\Edka.Sa01\obj\Debug\Edka.Sa01.csproj.AssemblyReference.cache
-C:\Users\jezie\source\repos\Edka\Edka.Sa01\obj\Debug\Edka.Sa01.csproj.CoreCompileInputs.cache
-C:\Users\jezie\source\repos\Edka\Edka.Sa01\obj\Debug\Edka.Sa01.exe
-C:\Users\jezie\source\repos\Edka\Edka.Sa01\obj\Debug\Edka.Sa01.pdb
