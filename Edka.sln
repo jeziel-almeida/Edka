@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edka.Sa04", "Edka.Sa01\Edka.Sa04.csproj", "{1EDFACD4-A029-4817-A3DD-4313A7617A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edka.Sa05", "Edka.Sa05\Edka.Sa05.csproj", "{B98DFA0D-A1EB-46A3-A0FC-28AD49E2271F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDFACD4-A029-4817-A3DD-4313A7617A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDFACD4-A029-4817-A3DD-4313A7617A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDFACD4-A029-4817-A3DD-4313A7617A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDFACD4-A029-4817-A3DD-4313A7617A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98DFA0D-A1EB-46A3-A0FC-28AD49E2271F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98DFA0D-A1EB-46A3-A0FC-28AD49E2271F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98DFA0D-A1EB-46A3-A0FC-28AD49E2271F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98DFA0D-A1EB-46A3-A0FC-28AD49E2271F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F89F344-B71C-412B-84FE-F447CB41EAFA}
+	EndGlobalSection
+EndGlobal
